@@ -8,6 +8,13 @@ Human activity recognition is a broad field of study concerned with identifying 
 Sensor data for activity recognition was challenging and expensive to collect, requiring custom hardware. Now smart phones and other personal tracking devices used for fitness and health monitoring are cheap and ubiquitous. As such, sensor data from these devices is cheaper to collect, more common, and therefore is a more commonly studied version of the general activity recognition problem. The problem is to predict the activity given a snapshot of sensor data, typically data from one or a small number of sensor types. 
 
 
+**Explaination of our Project**
+
+In our Python Project, we collected data from two sources: an online dataset and our smartwatch. We compared our dataset to one available online. We noted heart rate and step count from our dataset. The user entered the heart rate, the step count was selected from our dataset, and the index number was recorded. In our project, we compared the calories and step count of the dataset acquired from our watch and online, and any null values were eliminated. The rows where the dataset matched were segregated from the remainder of the rows in DF, which is our dataset derived from watch step counts, and in DA, which is derived from the online data. A chart is created based on the analysis of two factors: calories and step count. The comparison of the two elements is represented by a scatter and pie chart. The pie chart also displays the user's active and idle minutes. After all of this, the user's heart rate is compared to the mean heart rate; if the value of the user's heart rate is greater than the total value of mean heart rate + 10, it indicates that the heart rate is abnormal and the user should consult a doctor; if the value of user's heart rate is less than the value of mean heart rate + 10, it indicates that the heart rate is normal and the you are good to go. Hence, the consultation from doctor is noted.
+
+
+
+
 
 
 
