@@ -14,9 +14,14 @@ In our Python Project, we collected data from two sources: an online dataset and
 
 
 
+## Analysis between calories and step count using Line Graph
+
+![python](https://user-images.githubusercontent.com/78655015/187520824-eef698e8-9bf8-4da2-90e4-5e77f33b2037.png)
 
 
+## Anlysis between calories and step count using scatter Graph
 
+![unnamed (1)](https://user-images.githubusercontent.com/78655015/187521642-1451100c-a745-4c97-88e2-a834c8430517.png)
 
 
 
