@@ -24,6 +24,13 @@ In our Python Project, we collected data from two sources: an online dataset and
 ![unnamed (1)](https://user-images.githubusercontent.com/78655015/187521642-1451100c-a745-4c97-88e2-a834c8430517.png)
 
 
+## Analysis Between Active Minutes & Inactive Minutes Using PIE CHART
+
+![pythonnn](https://user-images.githubusercontent.com/78655015/187523729-773f2016-0d1e-4c84-990e-7fba49c86df2.png)
+
+
+
+
 
 
 
