@@ -1,1 +1,1 @@
-# HR-System
+# Human Activity Recognition System
