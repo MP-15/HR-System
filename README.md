@@ -33,16 +33,6 @@ In our Python Project, we collected data from two sources: an online dataset and
 
 
 
-
-
-
-# Dataset Links
-Daily activity metrics:
-https://drive.google.com/file/d/1MgcvoeugHxuM0qp3c8BGNEIuW7pb_jX-/view?usp=sharing
-
-Data_collection:
-https://drive.google.com/file/d/1q5VNRavZ9UnooQAFqASmnyswgwqR49ke/view?usp=sharing
-
 Dataset_final:
 https://drive.google.com/file/d/1dHc_YA02HwAUrP-l4HbkZBUHk3YNnGOB/view?usp=sharing
 
